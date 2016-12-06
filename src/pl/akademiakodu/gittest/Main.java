@@ -10,7 +10,7 @@ public class Main {
 		}
 		
 		// Jeszze jakieœ rozwiniêcie
-		String ver = "0.1";
+		String ver = "0.1";//
 		
 	}
 
