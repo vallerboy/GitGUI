@@ -4,8 +4,12 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		// wygenerowa³em coœ :)
-
+	  
+		if(true){ 
+			System.out.println("Witaj w wersji 0.1");
+		}
+		 
+		
 	}
 
 }
